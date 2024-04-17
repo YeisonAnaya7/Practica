@@ -1,4 +1,3 @@
-
 package herenciajava;
 
 public class Humano {
@@ -16,5 +15,6 @@ public class Humano {
  
  public void setNombre(String nombre){
  this.nombre=nombre;
+ //
  }
 }
